@@ -1,7 +1,7 @@
 package com.formation.integcontinue;
 
 /**
- * Hello world! Ajout de modification
+ * Hello world! Ajout des modifications
  */
 public class App {
 	public static void main(String[] args) {
